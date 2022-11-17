@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @commanderabdu
-- 👀 I’m interested in art, music, Android devices and Linux
-- 🌱 I’m currently learning how to make TWRP images
-- 💞️ I’m looking to collaborate on custom ROM projects / any project that needs assitance on graphics (Game or UI)
-- 📫 How to reach me: abdurrahman.cetinkaya@yahoo.com
+# commanderabdu's readme.md
+ - 17 y/o highschooler. (website's coming soon)
+
+
+## What do I do?
+
+I am interested in:
+- Electronics
+- Android
+- Linux
+- and Art (includes pixel art / digital art / traditional art and what not)
+ 
+Currently I have a *bit* of **Python** and **C++** knowledge.  
+I know **Turkish** and **English**, and if you want to translate your project to Turkish (*or the other way around*), I am willing to help!
+
+### I am willing to contribute to:
+ - Any project that needs to be translated into **Turkish** or **English**
+ - Arduino projects
+ - Minecraft Resourcepacks / Games (3D/2D assets) / Art Projects
+ - and more
+
+### How to reach me:
+
+- e-mail : abdurrahman.cetinkaya@yahoo.com
+- Twitter    : https://twitter.com/commander_abdu
+- Artstation : https://www.artstation.com/commander_abdu
 
 <!---
 commanderabdu/commanderabdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
