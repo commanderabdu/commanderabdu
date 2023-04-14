@@ -1,5 +1,5 @@
 # commanderabdu's readme.md
- - 17 y/o highschooler. (website's coming soon)
+ - 18 y/o highschooler. (website's coming soon)
 
 
 ## What do I do?
@@ -17,6 +17,7 @@ I know **Turkish** and **English**, and if you want to translate your project to
  - Any project that needs to be translated into **Turkish** or **English**
  - Arduino projects
  - Minecraft Resourcepacks / Games (3D/2D assets) / Art Projects
+ - GLSL Shaders
  - and more
 
 ### How to reach me:
