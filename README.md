@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I am a native speaker of Turkish and I am fluent in English.
 
 I am heavily interested in retro computing and mobile devices. I am especially interested in Linux (distros) and feature phones. 
 I also play drums and I really like photography.
@@ -14,6 +14,7 @@ I currently know bit of C++ and Python, my goals are:
 
 You can contact see me at:
 https://wetdry.world/@commanderada
+
 and my now defunct Artstation:
 https://www.artstation.com/commander_abdu
 
