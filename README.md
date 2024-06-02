@@ -1,32 +1,21 @@
-# commanderabdu's readme.md
- - 18 y/o highschooler. (website's coming soon)
+Welcome to my GitHub profile!
 
+I am heavily interested in retro computing and mobile devices. I am especially interested in Linux (distros) and feature phones. 
+I also play drums and I really like photography.
+I want to make tech easier for everyone, while not dumbing it down.
 
-## What do I do?
+I translate open-source projects at Launchpad. You can see me there:
+https://launchpad.net/~commanderabdu  
 
-I am interested in:
-- Electronics
-- Android
-- Linux
-- and Art (includes pixel art / digital art / traditional art and what not)
- 
-Currently I have a *bit* of **Python** and **C++** knowledge.  
-I know **Turkish** and **English**, and if you want to translate your project to Turkish (*or the other way around*), I am willing to help!
+I currently know bit of C++ and Python, my goals are:
+- Learning C
+- Learning Japanese and Farsi, and becoming proficient in MSA
+- Making a tool similar to YaST that works on multiple distrubutions. 
 
-### I am willing to contribute to:
- - Any project that needs to be translated into **Turkish** or **English**
- - Arduino projects
- - Minecraft Resourcepacks / Games (3D/2D assets) / Art Projects
- - GLSL Shaders
- - and more
+You can contact see me at:
+https://wetdry.world/@commanderada
+and my now defunct Artstation:
+https://www.artstation.com/commander_abdu
 
-### How to reach me:
-
-- e-mail : abdurrahman.cetinkaya@yahoo.com
-- Twitter    : https://twitter.com/commander_abdu
-- Artstation : https://www.artstation.com/commander_abdu
-
-<!---
-commanderabdu/commanderabdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+or email me at:
+abdurrahman.cetinkaya@yahoo.com (yes it is my deadname)
